@@ -1,0 +1,135 @@
+
+.bg-container{
+    background-color: white;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
+   
+}
+
+.heading-container{
+    display: flex;
+}
+.heading{
+    color: red;
+}
+.hr{
+    width: 200px;
+    border-left: none;
+    border-bottom: none;
+    margin-top: 32px;
+    margin-right: 6px
+    
+}
+.hr1{
+    width: 200px;
+    border-left: none;
+    border-bottom: none;
+    margin-top: 32px;
+    margin-left: 6px;
+    
+}
+
+.pair-container{
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid #9e968d;
+    padding: 15px;
+    border-radius: 3px;
+    height: 70px;
+    width: 500px;
+    
+    
+}
+.DKK{
+    display: flex;
+    
+}
+.pa{
+    font-family: "roboto";
+    font-size: 14px;
+    margin-left: 10px;
+      margin-top: 1px;
+      margin-bottom: 0px;
+}
+.dd{
+    font-family: "roboto";
+    font-size: 14px;
+    margin-left: 10px;
+     margin-top: 1px;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+.popular-container{
+   
+       display: flex;
+    justify-content: space-between;
+    margin-bottom: 1px;
+ 
+}
+.line{
+    color: #9e968d;
+    text-decoration: line-through;
+}
+
+.side{
+    margin-top: 10px;
+    margin-bottom: 2px;
+    color: red;
+}
+.pppp{
+      
+    padding: 15px;
+    border-radius: 3px;
+    
+    width: 500px;
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+     background-color: #fdd7e9;
+      border: 1px solid red;
+}
+.select{
+    display: flex;
+    
+}
+select{
+    font-size: 13px;
+    height: 20px;
+    width: 60px;
+    margin-top: 8px;
+    margin-right:  10px;
+}
+.size{
+    margin-left: 10px;
+    margin-right: 60px;
+    margin-bottom: 1px;
+    margin-top: 1px;
+    
+}
+.ss{
+    margin-top: 10px;
+}
+.shipping{
+    display: flex;
+        justify-content: space-between;
+         width: 500px;
+         margin-top: 15px;
+    
+}
+.free{
+    color: red;
+  
+}
+button{
+    color: white;
+    background-color: red;
+    border-radius: 3px;
+    height: 30px;
+    width: 500px;
+    font-weight: bold;
+    border: none;
+}
